@@ -294,8 +294,8 @@ Standard CrossEntropyLoss encourages overconfident predictions. We replaced it w
 | EfficientNet-B0 | 77.1% | Baseline |
 | RepViT-M0.9 (original head) | 78.7% | Primary baseline |
 | RepViT-M1.0 | 80.0% | Baseline |
-| **Ours — SCE Head (single-pass)** | **77.9%** | Our result |
-| **Ours — SCE Head + TTA** | **77.05%** | Our best result |
+| **Ours — SCE Head (single-pass)** | **77.5%** | Our result |
+| **Ours — SCE Head + TTA** | **77.9%** | Our best result |
 
 Our SCE model achieves 77.9% — only **0.8 percentage points below the primary baseline** — despite being trained under severely constrained conditions:
 
