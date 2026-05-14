@@ -1,1 +1,11 @@
-a
+# Data
+
+## Samples
+The `samples/` folder has 5 example images so you can understand the format.
+
+## Full Dataset (ImageNet)
+Download from Kaggle:
+👉 https://www.kaggle.com/competitions/imagenet-object-localization-challenge
+
+After downloading, place it so your path looks like:
+data/ILSVRC/Data/CLS-LOC/train/...
