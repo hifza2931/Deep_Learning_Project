@@ -6,7 +6,6 @@
 |---|---|
 | **Authors** | Hifza Umer (i257800) · Sidra Fayyaz (i257625) |
 | **Supervisor** | Dr. Ijaz Hussain |
-| **Submission Date** | 03 May 2026 |
 | **Course** | Deep Learning (MS-AI) |
 
 ---
