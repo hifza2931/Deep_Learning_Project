@@ -1,0 +1,16 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Vision Transformer / Model Libraries
+timm==0.5.4
+
+# Model Complexity Analysis
+fvcore
+
+# Data & Utilities
+numpy
+pandas
+
+# Standard Library (no install needed, listed for reference)
+# os
