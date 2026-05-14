@@ -31,7 +31,17 @@
 Below added dirve link to access trained wights and model
 
 https://drive.google.com/drive/folders/1UMXMUWYXiKGRsRQBL-CQyI7vtZrn363Z?usp=drive_link
+# Data
 
+## Samples
+The `samples/` folder has 5 example images so you can understand the format.
+
+## Full Dataset (ImageNet)
+Download from Kaggle:
+👉 https://www.kaggle.com/competitions/imagenet-object-localization-challenge
+
+After downloading, place it so your path looks like:
+data/ILSVRC/Data/CLS-LOC/train/...
 ## Project Overview
 
 This project is a **reproduction + original contribution** study of the RepViT paper (Wang et al., 2024). We:
