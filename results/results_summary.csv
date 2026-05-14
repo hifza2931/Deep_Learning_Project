@@ -1,0 +1,7 @@
+Model,Top1_Accuracy
+RepViT-M0.9 (paper),78.7
+RepViT-M1.0 (paper),80
+MobileNetV3-L,75.2
+EfficientNet-B0,77.1
+Ours - SCE single,77.51
+Ours - SCE + TTA,77.92
