@@ -1,5 +1,5 @@
 # RepViT: Revisiting Mobile CNN From ViT Perspective
-### Deep Learning Final Project — MS Artificial Intelligence
+### Deep Learning Final Project: MS Artificial Intelligence
 **FAST University of Computer and Emerging Sciences**
 
 | | |
